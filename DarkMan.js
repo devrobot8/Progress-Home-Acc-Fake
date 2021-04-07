@@ -7387,11 +7387,11 @@ message.member.voiceChannel
 
 //تۆكینه‌كان لێره‌ جا بنێ
 
-client.login("");
-client2.login("");
-client3.login("");
-client4.login("");
-client5.login("");
+client.login("ODI5MzExNjYxMjQ3NTYxNzMw.YG2VEA.YoV1ANMhFT8IbWWObUqAkut9Vwo");
+client2.login("ODI5MzEyNzIzMzc1NjIwMTE4.YG2VLA.atbdFnzWrXMDYzraBuPNE9e4t_w");
+client3.login("ODI5MzEzMzUzMDEyMjE1ODI5.YG2VPQ.Ha1vgYoFxB7LMJEWRgWpz9gE8uI");
+client4.login("ODI5MzEzOTA2Mjk5NzY0NzY2.YG2YEQ.JpNWqW5nB_X7bIQMmf1D3qr6mVA");
+client5.login("ODI5MzE2MjQ4MDkyODAzMDgy.YG2YHw.vDKDi18CEUvQIwISM2q4Pu019fE");
 client6.login("");
 client7.login("");
 client8.login("");
